@@ -26,3 +26,10 @@ nano /etc/zabbix/zabbix_server.conf
 Potem szyukamy sentensji DBPassword=password i zmieniamy ją 
 
 Jak to zrobimy należy wpisać dwie komendy będzie drugi plik startzabbix.sh
+
+Po wystartowaniu wpoisujemy w przewglądarekę internetową link 
+
+ttp://host/zabbix
+
+Login Administrator
+Hasło zabbix
